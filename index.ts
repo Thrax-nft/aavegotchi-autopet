@@ -3,7 +3,8 @@ import { TransactionResponse } from "@ethersproject/abstract-provider";
 import { ethers } from "ethers";
 
 const TOKEN_IDS = [
-  7697,13753
+  7697,
+  13753,
 ];
 
 const RPC_ENDPOINT = "https://polygon-rpc.com";
